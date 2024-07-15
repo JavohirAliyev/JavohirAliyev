@@ -1,6 +1,6 @@
 ## Hi, I am Javohir 👋
 
-<iframe src="https://giphy.com/embed/iheC31U2y32TZdWw7P" width="480" height="264" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rickandmorty-season-4-episode-rick-and-morty-iheC31U2y32TZdWw7P">via GIPHY</a></p>
+<img src="https://giphy.com/embed/iheC31U2y32TZdWw7P" width="480" height="264" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 <!--
 **JavohirAliyev/JavohirAliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
