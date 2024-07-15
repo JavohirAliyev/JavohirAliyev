@@ -1,8 +1,7 @@
-## Hi, I am Javohir 👋
-
-<div id="header" align="center">
-  <img src="https://giphy.com/embed/iheC31U2y32TZdWw7P" width="100"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi, I am Javohir!🧬&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+<img src="https://giphy.com/embed/iheC31U2y32TZdWw7P" width="100"/>
 <!--
 **JavohirAliyev/JavohirAliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
