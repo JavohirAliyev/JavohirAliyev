@@ -39,5 +39,5 @@ My name is Javohir Aliyev, and I am currently pursuing a bachelor's degree in Bu
 
 ### ✍️Check out my Telegram blog:
 
-- [My Internship Journey at Itransition Group](https://t.me/jakhalive/821 target="_blank")
-- [The Power of Projects  ](https://t.me/jakhalive/805 target="_blank")
+- [My Internship Journey at Itransition Group](https://t.me/jakhalive/821)
+- [The Power of Projects  ](https://t.me/jakhalive/805)
