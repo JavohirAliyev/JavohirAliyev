@@ -35,8 +35,3 @@ My name is Javohir Aliyev, and I am currently pursuing a bachelor's degree in Bu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"width="40" height="40"/>&nbsp;
 </p>
 <hr>
-
-### ✍️Check out my Telegram blog:
-
-- [My Internship Journey at Itransition Group](https://t.me/jakhalive/821)
-- [The Power of Projects  ](https://t.me/jakhalive/805)
